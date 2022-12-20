@@ -11,9 +11,9 @@ more (link):
 
     https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app
 
-for example:
+for example(project):
 
 
-master branch
+-master branch
 
 Mohammad Reza Fekri, Junior Android Developer
