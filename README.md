@@ -9,7 +9,7 @@ To use Lottie:
       
 more (link):
 
-https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app
+    https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app
 
 for example:
 
