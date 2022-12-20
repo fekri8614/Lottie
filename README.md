@@ -13,6 +13,7 @@ more (link):
 
 for example:
 
-    master branch
+
+master branch
 
 Mohammad Reza Fekri, Junior Android Developer
