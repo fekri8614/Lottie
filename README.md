@@ -13,6 +13,6 @@ https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-ani
 
 for example:
 
-  master branch
+    master branch
 
 Mohammad Reza Fekri, Junior Android Developer
