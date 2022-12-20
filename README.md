@@ -7,5 +7,7 @@ To use Lottie:
   
       app>Directory>src/main/assets
       
+more:
+https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app
 
 Mohammad Reza Fekri, Junior Android Developer
